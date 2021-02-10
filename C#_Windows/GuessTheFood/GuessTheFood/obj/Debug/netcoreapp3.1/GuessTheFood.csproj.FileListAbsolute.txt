@@ -1,0 +1,12 @@
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/bin/Debug/netcoreapp3.1/GuessTheFood.deps.json
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/bin/Debug/netcoreapp3.1/GuessTheFood.runtimeconfig.json
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/bin/Debug/netcoreapp3.1/GuessTheFood.runtimeconfig.dev.json
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/bin/Debug/netcoreapp3.1/GuessTheFood.dll
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/bin/Debug/netcoreapp3.1/GuessTheFood.pdb
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/obj/Debug/netcoreapp3.1/GuessTheFood.csprojAssemblyReference.cache
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/obj/Debug/netcoreapp3.1/GuessTheFood.AssemblyInfoInputs.cache
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/obj/Debug/netcoreapp3.1/GuessTheFood.AssemblyInfo.cs
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/obj/Debug/netcoreapp3.1/GuessTheFood.csproj.CoreCompileInputs.cache
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/obj/Debug/netcoreapp3.1/GuessTheFood.dll
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/obj/Debug/netcoreapp3.1/GuessTheFood.pdb
+/Users/traciemarie/Projects/coopassessment/C#_Windows/GuessTheFood/GuessTheFood/obj/Debug/netcoreapp3.1/GuessTheFood.genruntimeconfig.cache
