@@ -38,22 +38,22 @@ namespace GuessTheFood
 
             // Set guesses 
             bool noGuesses = false;
-            
-        
+
+
             while (guess != correctGuess && !noGuesses)
             {
-                 if (attempts < guessLimit)
+                if (attempts < guessLimit)
                 {
                     string input = Console.ReadLine();
                     guess = input;
                     attempts++;
-                    Console.WriteLine("Wrong, please try again! You have " + (guessLimit - attempts)+ " tries left.");
+                    Console.WriteLine("Wrong, please try again! You have " + (guessLimit - attempts) + " tries left.");
                 }
-                 else
+                else
                 {
                     noGuesses = true;
                 }
-                 
+
             }
             if (noGuesses)
 
