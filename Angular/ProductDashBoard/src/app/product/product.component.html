@@ -1,1 +1,8 @@
-<p>product works!</p>
+<h2>Products</h2>
+<div *ngFor="let product of products">
+  <ul class="products">
+    <li>
+      <span class="badge">{{product.ID}}</span> {{product.Name}} , {{product.Price}} {{product.Description}}
+    </li>
+  </ul>
+</div>
